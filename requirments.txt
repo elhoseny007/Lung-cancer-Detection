@@ -1,7 +1,7 @@
-streamlit
-tensorflow
-numpy
-Pillow
-h5py
+streamlit>=1.30.0
+tensorflow>=2.10.0
+numpy>=1.21.0
+Pillow>=9.0.0
+h5py>=3.7.0
 gdown
 os
